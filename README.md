@@ -14,7 +14,7 @@
 
 > **Smart, Fast, and Safe duplicate file detection powered by Google Cloud & AI** ⚡
 
-[![GitHub](https://img.shields.io/badge/GitHub-kunaal318%2Fdata--analysis--tool-blue?style=flat-square&logo=github)](https://github.com/kunaal318/data-analysis-tool)
+[![GitHub](https://img.shields.io/badge/GitHub-aryanvr961%2FAi--assisted--junk--maneger-blue?style=flat-square&logo=github)](https://github.com/aryanvr961/Ai-assisted-junk-maneger)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-green?style=flat-square&logo=python)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=flat-square)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=flat-square)](.)
@@ -41,8 +41,8 @@ This is a **production-grade duplicate detection system** that intelligently ide
 
 ### 1️⃣ Clone & Install
 ```bash
-git clone https://github.com/kunaal318/data-analysis-tool.git
-cd data-analysis-tool
+git clone https://github.com/aryanvr961/Ai-assisted-junk-maneger.git
+cd Ai-assisted-junk-maneger
 pip install -r requirements.txt
 ```
 
@@ -168,8 +168,8 @@ data-analysis-tool/
 
 #### 1. Clone Repository
 ```bash
-git clone https://github.com/kunaal318/data-analysis-tool.git
-cd data-analysis-tool
+git clone https://github.com/aryanvr961/Ai-assisted-junk-maneger.git
+cd Ai-assisted-junk-maneger
 ```
 
 #### 2. Setup Backend
@@ -416,9 +416,9 @@ MIT License - Free for personal & commercial use
 
 ## 👤 Author
 
-**Kunaal318**
-- GitHub: [@kunaal318](https://github.com/kunaal318)
-- Project: [data-analysis-tool](https://github.com/kunaal318/data-analysis-tool)
+**Aryan Verma (aryanvr961)**
+- GitHub: [@aryanvr961](https://github.com/aryanvr961)
+- Project: [Ai-assisted-junk-maneger](https://github.com/aryanvr961/Ai-assisted-junk-maneger)
 
 ---
 
@@ -427,7 +427,7 @@ MIT License - Free for personal & commercial use
 ⭐ Star this project on GitHub if you find it useful!
 
 ```
-https://github.com/kunaal318/data-analysis-tool ⭐
+https://github.com/aryanvr961/Ai-assisted-junk-maneger ⭐
 ```
 
 ---
