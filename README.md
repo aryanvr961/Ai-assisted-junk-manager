@@ -1,15 +1,3 @@
-```
-   ___     _      _   _              _        ____   _  _     _      _   _     
-  |_ _|   / \    | | | |            / \      |  _ \ | || |   / \    | \ | |   
-   | |   / _ \   | | | |           / _ \     | | | || || |_ / _ \   |  \| |   
-   | |  / ___ \  | |_| |          / ___ \    | |_| ||__   _/ ___ \  | |\  |   
-  |___| /_/   \_\ \___/          /_/   \_\   |____/    |_|/_/   \_\ |_| \_|   
-                                                                               
-      🔍 DUPLICATE DETECTION SYSTEM WITH AI 🤖
-         
-         Intelligent File Analysis & Archive Management
-```
-
 # 📋 Data Analysis Tool - Duplicate Detection System
 
 > **Smart, Fast, and Safe duplicate file detection powered by Google Cloud & AI** ⚡
